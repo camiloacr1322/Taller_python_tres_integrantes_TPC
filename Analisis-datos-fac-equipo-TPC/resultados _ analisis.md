@@ -46,3 +46,17 @@ Mujeres: 1804 (30.4%)
 La muestra evidencia una clara predominancia masculina, lo cual resulta coherente con el contexto militar de la Fuerza Aérea Colombiana. No obstante, la participación femenina también es significativa, pues representa cerca de un tercio de la población analizada. Este balance refleja los avances en inclusión y diversidad dentro de la institución, aunque aún persiste una diferencia marcada en la proporción.
 
 <img width="709" height="547" alt="image" src="https://github.com/user-attachments/assets/4f5f129c-1b2d-4046-8ddb-0b5aaf404407" />
+
+La pirámide poblacional refleja una marcada diferencia en la participación de hombres y mujeres dentro de la muestra. Se observa que los hombres representan la mayoría en todos los rangos etarios, especialmente en los grupos de 28–32 y 33–37 años, donde la brecha entre géneros es más evidente. Aunque las mujeres están presentes en todos los intervalos de edad, su participación es considerablemente menor, lo que coincide con la distribución general de la muestra en la que predominan los hombres. Esta diferencia resalta la composición demográfica característica de un contexto militar, donde históricamente la presencia masculina ha sido mayoritaria.
+
+<img width="695" height="497" alt="image" src="https://github.com/user-attachments/assets/ac66b405-4c80-4674-a573-63a55c9767a4" />
+
+El índice de masculinidad muestra una clara predominancia de hombres frente a mujeres en la mayoría de los rangos de edad, superando ampliamente el umbral de 100 (equilibrio). La diferencia es más marcada entre los 18 y 42 años, donde por cada 100 mujeres hay entre 250 y 300 hombres aproximadamente. A partir de los 43 años la brecha comienza a disminuir, aunque nunca se iguala, y en el rango de 63–67 años se observa un pico atípico de masculinidad. Esto confirma el sesgo de género presente en la muestra y la mayor participación masculina en el contexto militar.
+
+<img width="704" height="513" alt="image" src="https://github.com/user-attachments/assets/f5727c63-6f40-4b9b-9fe4-1829ce973e2c" />
+
+<img width="859" height="591" alt="image" src="https://github.com/user-attachments/assets/b3c5c65a-1cee-4d7e-9ef3-832624ded302" />
+
+El análisis de la frecuencia de grados militares muestra que la mayor concentración de individuos se encuentra en el rango de suboficiales, con un total de 2.508 casos. Este valor supera ampliamente al de los oficiales (1.755) y civiles (1.668), lo que refleja una estructura jerárquica donde predomina el personal subalterno frente a las demás categorías.
+
+Al desagregar los datos por género, se observa que en todas las categorías la participación masculina es predominante. La diferencia es especialmente notoria en el rango de suboficiales, donde los hombres superan de manera considerable a las mujeres, mientras que en la categoría civil la brecha es mucho menor. Este comportamiento evidencia una marcada desigualdad de género en la composición de los grados militares, aunque con una mayor presencia relativa de mujeres en los cargos civiles.
