@@ -77,6 +77,12 @@ Revisar y limpiar las categorías afectadas, de modo que los términos queden un
 
 Adoptar como práctica institucional la verificación del encoding al momento de almacenar y compartir bases de datos para evitar recurrencia del problema.
 
+### Inconsistencias en la Base de Datos
+
+Durante la revisión de la base de datos se identificaron inconsistencias en algunas respuestas, particularmente en variables relacionadas entre sí. Un ejemplo claro es cuando el número total de hijos reportado resulta ser menor que el número de hijos que habitan en el hogar, lo cual no es coherente.
+
+Estas inconsistencias fueron advertidas a la experta responsable, quien fue informada sobre los posibles impactos en el análisis. Finalmente, se determinó que la decisión sobre cómo manejar estas situaciones recaería en ella, mientras que el trabajo de depuración se mantuvo en la identificación y señalamiento de los casos problemáticos.
+
 ## Conclusión
 
 La base de datos resultó difícil de utilizar debido a los problemas previamente señalados: presencia de errores de codificación de caracteres, alta proporción de datos faltantes en ciertas variables y falta de respuesta por parte de la empresa para aclarar inconsistencias. Estos factores generaron retrasos en el proceso de limpieza y depuración de la información.
