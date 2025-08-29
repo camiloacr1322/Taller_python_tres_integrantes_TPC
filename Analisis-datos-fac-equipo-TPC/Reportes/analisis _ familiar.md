@@ -57,5 +57,31 @@ La mayoría de personas visita a la familia **más de 5 veces al año**.
 2. La **edad se asocia al estado civil y la etapa vital**, lo que confirma patrones teóricos en demografía y familia.  
 3. La **relación con los hijos es mayoritariamente positiva**, lo que constituye un factor protector.  
 4. Las **necesidades familiares más relevantes** son el **apoyo económico** y el **tiempo compartido**, lo que refleja tensiones comunes entre economía y conciliación familiar.  
-5. Aunque minoritario, el **maltrato intrafamiliar requiere atención prioritaria** por su impacto en el bienestar.  
+5. Aunque minoritario, el **maltrato intrafamiliar requiere atención prioritaria** por su impacto en el bienestar.
 
+
+---
+
+### ¿Qué porcentaje del personal está casado?
+
+El **58.76%** del personal encuestado está casado.  
+Esto indica que la mayoría del personal de la FAC tiene vínculos familiares formales, lo cual puede influir en sus dinámicas de convivencia, necesidades familiares y bienestar emocional.  
+
+---
+
+### ¿Cuántos tienen hijos y cuántos viven con ellos?
+
+**3181 personas** tienen hijos.De ellas, **2706 personas** viven con sus hijos.  
+La gran mayoría de quienes tienen hijos conviven con ellos, lo que sugiere una estructura familiar activa y presente. 
+
+---
+
+### ¿Hay relación entre edad y estado civil?
+
+Sí, hay una relación clara.  
+  - **Solteros/as**: edad promedio de **30 años**.  
+  - **Casados**: **39 años**.  
+  - **Separados/divorciados**: entre **40 y 41 años**.  
+  - **Viudos/as**: **47 años**.  
+
+La edad está directamente relacionada con el estado civil. A medida que aumenta la edad, es más probable que las personas estén casadas, separadas o viudas.
