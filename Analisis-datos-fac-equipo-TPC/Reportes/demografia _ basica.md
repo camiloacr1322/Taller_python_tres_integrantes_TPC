@@ -57,9 +57,17 @@ Se construyó un gráfico segmentado por género para observar cómo se distribu
 
 ## Conclusiones
 
-- Se obtuvo una **visión general de la población** en términos de edad y género.  
-- Se identificaron **diferencias en la distribución por sexo** a través de la pirámide poblacional y el índice de masculinidad.  
-- Se determinó cuál es el **grado militar más frecuente** en la base de datos.  
-- Se exploraron las **diferencias por género en las categorías militares**, lo que aporta a un entendimiento más profundo de la estructura poblacional.  
+### 1. ¿Cuál es el rango de edad más común?
+El rango de edad más frecuente está entre **28-32** y **33-37 años**, ambos con **1152 registros**, siendo los que más cantidad presentan.  
 
-Este análisis constituye un **primer diagnóstico demográfico** que puede servir como base para estudios más avanzados en estructura social, familia y dinámicas poblacionales.
+---
+
+### 2. ¿Hay diferencia en la distribución por género?
+Las distribuciones de edades entre hombres y mujeres son **similares**, con picos en los mismos rangos (28-32 y 33-37).  
+Lo más destacado es la **diferencia en la cantidad total por género**: en la base predominan los **hombres**, lo que también se refleja en el **índice de masculinidad**, que muestra valores altos en casi todos los intervalos.  
+
+---
+
+### 3. ¿Cuál es el grado militar más frecuente?
+El grado más común es el de **suboficial**, con **2508 registros**, seguido por **oficial (1755)** y **civil (1668)**.  
+Existe una gran diferencia a favor de los suboficiales en comparación con las demás categorías.  
