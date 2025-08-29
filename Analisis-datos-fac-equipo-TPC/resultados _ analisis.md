@@ -14,4 +14,24 @@
 
 Son cuatro las columnas con más faltantes, cada una con el 49% o más haciendo dificil la imputaciòn de estas variables, aunque en algunas variables se arregla el problema de otra manera, explicación más detallada en la parte dos de "Faltantes_python_personal" en la carpeta de "Reportes"
 
+### ¿Hay registros duplicados?
+
+No se encuentran registors duplicados, esto se muestra en el archivo "datos_exploración" en la carpeta "Analisis-datos-fac-equipo-TPC" o "Faltantes_python_personal" en la carpeta "Reportes"
+
+
+### ¿Qué problemas de encoding se detectan?
+
+| Texto con fallo            | Texto correcto            |
+|-----------------------------|---------------------------|
+| TECNOLOGÃ“GICO              | TECNOLÓGICO               |
+| TÃ‰CNICO                    | TÉCNICO                   |
+| SEGURIDAD Y DEFENSA DE BASES AÃ‰REAS | SEGURIDAD Y DEFENSA DE BASES AÉREAS |
+
+Cuando abrimos la base de datos, algunos textos con tildes (á, é, í, ó, ú) o con la letra ñ aparecen con símbolos extraños, como “TECNOLOGÃ“GICO” en vez de “TECNOLÓGICO”.
+
+Este tipo de error es común en bases grandes y afecta la claridad de la información, ya que puede generar categorías duplicadas o confusión en los reportes. Por ejemplo, “TÉCNICO” y “TÃ‰CNICO” se interpretarían como dos valores distintos, aunque en realidad sean lo mismo. 
+
+Si desea ver la solución o tener más detalle esto se enceuntra en el archivo "datos_exploración" en la carpeta "Analisis-datos-fac-equipo-TPC" o "Faltantes_python_personal" en la carpeta "Reportes"
+
+
 
