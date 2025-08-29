@@ -21,3 +21,11 @@ Se corrigieron los problemas de codificación, asegurando que las variables qued
 3. Solicitud de los expertos
 
 Los expertos solicitaron que la base de datos se entregara con las variables que ellos definieron como relevantes. A partir de esa solicitud, se realizó la depuración y organización necesaria, tomando la decisión metodológica de cómo tratar los problemas detectados en el archivo para garantizar un producto final confiable y útil para el análisis.
+
+------------------------------
+
+## Reporte del analista de datos
+
+La principal dificultad del estudio radicó en el tamaño y la composición de la muestra, ya que se evidenció una diferencia considerable entre la cantidad de hombres y mujeres registrados. Esta situación limitó la posibilidad de realizar comparaciones totalmente equitativas entre ambos grupos y generó un sesgo natural en la interpretación de los resultados. Sin embargo, lejos de considerarlo únicamente como una limitación, esta condición se convirtió en un punto central del análisis, pues permitió identificar y resaltar cómo dicha desigualdad de representación afecta la lectura de la estructura poblacional.
+
+En este sentido, se tomó la decisión metodológica de enfocar el estudio en la diferencia de género como eje principal, examinando no solo la distribución de edades de forma general, sino también la manera en que el desequilibrio entre hombres y mujeres se manifestaba en los distintos rangos etarios y en las categorías militares. Este enfoque permitió extraer conclusiones más relevantes sobre la población estudiada, reconociendo que la desproporción de género no es un simple obstáculo, sino un hallazgo en sí mismo que aporta al entendimiento de la dinámica demográfica de la base.
