@@ -10,6 +10,6 @@
 31                NUMERO_HIJOS                                      3217   50.085630
 32                HIJOS_EN_HOGAR                                    3200   49.820956
 
-Son cuatro las columnas con más faltantes, cada una con el 49% o más haciendo dificil la imputaciòn de estas variables, aunque en algunas se arregla el problema de otra manera, mejor explicado 
+Son cuatro las columnas con más faltantes, cada una con el 49% o más haciendo dificil la imputaciòn de estas variables, aunque en algunas variables se arregla el problema de otra manera, explicación más detallada en la parte dos de "Faltantes_python_personal" en la carpeta de "Reportes"
 
 
