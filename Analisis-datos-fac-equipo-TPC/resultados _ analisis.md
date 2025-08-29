@@ -60,3 +60,31 @@ El índice de masculinidad muestra una clara predominancia de hombres frente a m
 El análisis de la frecuencia de grados militares muestra que la mayor concentración de individuos se encuentra en el rango de suboficiales, con un total de 2.508 casos. Este valor supera ampliamente al de los oficiales (1.755) y civiles (1.668), lo que refleja una estructura jerárquica donde predomina el personal subalterno frente a las demás categorías.
 
 Al desagregar los datos por género, se observa que en todas las categorías la participación masculina es predominante. La diferencia es especialmente notoria en el rango de suboficiales, donde los hombres superan de manera considerable a las mujeres, mientras que en la categoría civil la brecha es mucho menor. Este comportamiento evidencia una marcada desigualdad de género en la composición de los grados militares, aunque con una mayor presencia relativa de mujeres en los cargos civiles.
+
+
+
+## Anàlisis Familiar
+
+### ¿Qué porcentaje del personal está casado?
+
+El **58.76%** del personal encuestado está casado.  
+Esto indica que la mayoría del personal de la FAC tiene vínculos familiares formales, lo cual puede influir en sus dinámicas de convivencia, necesidades familiares y bienestar emocional.  
+
+---
+
+### ¿Cuántos tienen hijos y cuántos viven con ellos?
+
+**3181 personas** tienen hijos.De ellas, **2706 personas** viven con sus hijos.  
+La gran mayoría de quienes tienen hijos conviven con ellos, lo que sugiere una estructura familiar activa y presente. 
+
+---
+
+### ¿Hay relación entre edad y estado civil?
+
+Sí, hay una relación clara.  
+  - **Solteros/as**: edad promedio de **30 años**.  
+  - **Casados**: **39 años**.  
+  - **Separados/divorciados**: entre **40 y 41 años**.  
+  - **Viudos/as**: **47 años**.  
+
+La edad está directamente relacionada con el estado civil. A medida que aumenta la edad, es más probable que las personas estén casadas, separadas o viudas.
