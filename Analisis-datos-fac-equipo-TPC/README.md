@@ -29,3 +29,10 @@ Los expertos solicitaron que la base de datos se entregara con las variables que
 La principal dificultad del estudio radicó en el tamaño y la composición de la muestra, ya que se evidenció una diferencia considerable entre la cantidad de hombres y mujeres registrados. Esta situación limitó la posibilidad de realizar comparaciones totalmente equitativas entre ambos grupos y generó un sesgo natural en la interpretación de los resultados. Sin embargo, lejos de considerarlo únicamente como una limitación, esta condición se convirtió en un punto central del análisis, pues permitió identificar y resaltar cómo dicha desigualdad de representación afecta la lectura de la estructura poblacional.
 
 En este sentido, se tomó la decisión metodológica de enfocar el estudio en la diferencia de género como eje principal, examinando no solo la distribución de edades de forma general, sino también la manera en que el desequilibrio entre hombres y mujeres se manifestaba en los distintos rangos etarios y en las categorías militares. Este enfoque permitió extraer conclusiones más relevantes sobre la población estudiada, reconociendo que la desproporción de género no es un simple obstáculo, sino un hallazgo en sí mismo que aporta al entendimiento de la dinámica demográfica de la base.
+
+
+------------------------------
+##  Análisista de Datos Familiares
+
+Se desarrolla un análisis descriptivo y exploratorio sobre datos familiares, con el objetivo de identificar patrones en la composición del hogar, las dinámicas de pareja, la crianza de los hijos, las necesidades y la presencia de factores como el maltrato intrafamiliar. Este tipo de análisis es fundamental ya que permite interpretar información clave de bienestar, prevención y fortalecimiento de las relaciones familiares.
+
